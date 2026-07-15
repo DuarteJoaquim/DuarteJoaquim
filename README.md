@@ -1,6 +1,6 @@
 # Hi there, I'm Duarte Ferreira! 👋 (`DuarteJoaquim`)
 
-I am a **Software Developer** focused on building clean web and mobile applications. Currently completing my studies in Computer Engineering at **IPLeiria - ESTG** (Portugal). I enjoy working on full-stack projects, mobile systems, and integrating APIs to solve practical problems.
+I am a **Software Developer** focused on building clean web and mobile applications. Recent Computer Engineering graduate from **IPLeiria - ESTG** (Portugal). I enjoy working on full-stack projects, mobile systems, and integrating APIs to solve practical problems.
 
 ---
 
