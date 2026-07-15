@@ -59,4 +59,4 @@ I am a **Software Developer** focused on building clean web and mobile applicati
 
 ## 🤝 Connect with Me
 - **LinkedIn:** [linkedin.com/in/duarteferreira-dev](https://www.linkedin.com/in/duarteferreira-dev/)
-- **Email:** [2212500@my.ipleiria.pt](mailto:2212500@my.ipleiria.pt)
+- **Email:** [duarte_joaquim@outlook.com](mailto:duarte_joaquim@outlook.com)
