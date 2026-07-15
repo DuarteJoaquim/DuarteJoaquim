@@ -4,16 +4,16 @@ I am a **Software Developer** focused on building clean web and mobile applicati
 
 ---
 
-## ⚡ Core Focus & Practice
-- 🌐 **Backend Engineering:** Highly practiced in building enterprise systems using **Java (Spring Boot / Jakarta EE)** and **PHP (Laravel)**.
-- 🎨 **Frontend Development:** Designing reactive interfaces using **Vue.js** (and Nuxt 3).
-- 📱 **Mobile Interfaces:** Developing cross-platform interfaces with **React Native & Expo**, backed by **Firebase**.
+## ⚡ O que faço
+- 🌐 **Full-Stack Web Development:** Criação de sistemas web completos utilizando **Vue.js** no frontend e **Spring Boot** ou **Laravel** no backend.
+- 📱 **Mobile App Development:** Desenvolvimento de aplicações móveis multiplataforma com **React Native & Expo**, com integração de base de dados **Firebase**.
+- 🛠️ **Integrações & Scraping:** Desenvolvimento de scripts em Python para recolha automatizada de dados e utilização de Docker para conteinerização de ambientes de desenvolvimento.
 
 ---
 
-## 🛠️ Focused Tech Stack
+## 🛠️ Tecnologias & Ferramentas
 
-### Languages I Use Most
+### Linguagens de Programação
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -22,12 +22,18 @@ I am a **Software Developer** focused on building clean web and mobile applicati
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### Frameworks & Tools
+### Frameworks & Bibliotecas
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6db33f?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+</p>
+
+### Bases de Dados & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -35,31 +41,30 @@ I am a **Software Developer** focused on building clean web and mobile applicati
 
 ---
 
-## 📂 Highlighted Projects
+## 📂 Projetos
 
-### ⭐ Core Featured Projects (Primary Focus)
-* **[DAE Academic Publications Platform](https://github.com/DuarteJoaquim/DAE-Academic-Publications-Platform):** An enterprise-level repository for scientific papers. Built using a **Java (Jakarta EE)** WildFly backend, a **Nuxt 3** frontend, and local LLM writing assistance integrations.
-* **[FARUP Logistics Platform](https://github.com/DuarteJoaquim/FARUP-Logistics-Platform):** An e-commerce shipment backend. Combines a **Python scraper** for catalog compilation, a **Spring Boot backoffice** simulating transport logs, and integrations with carrier APIs (DHL & CTT) and the **Google Gemini API** for box optimization.
+### ⭐ Projetos em Destaque
+* **[DAE Academic Publications Platform](https://github.com/DuarteJoaquim/DAE-Academic-Publications-Platform):** Plataforma para gestão e revisão de publicações académicas. Backend em **Java (Jakarta EE)**, frontend em **Nuxt 3** e integração com IA local para resumos de artigos.
+* **[FARUP Logistics Platform](https://github.com/DuarteJoaquim/FARUP-Logistics-Platform):** Sistema logístico de e-commerce. Inclui um **crawler em Python** para extração de catálogo, um backend **Spring Boot** para gestão de encomendas e integração com a **Gemini API** para otimização de caixas de envio.
 
-### 📁 Additional Projects (Secondary Focus)
-* **[DAD Memory Game Platform](https://github.com/DuarteJoaquim/DAD-Memory-Game-Platform):** Real-time multiplayer game using **Vue 3, Laravel 10 APIs, and Socket.io WebSockets** with Docker.
-* **[TAES Mobile Wallet App](https://github.com/DuarteJoaquim/TAES-Mobile-Wallet-App):** Mobile banking app built with **React Native, Expo, and Firebase**.
-* **[IA-CIFAR10-Classifier-GUI](https://github.com/DuarteJoaquim/IA-CIFAR10-Classifier-GUI):** Image classifier with Tkinter GUI (TensorFlow/Keras).
-* **[IS-SOMIOD-IoT-Middleware](https://github.com/DuarteJoaquim/IS-SOMIOD-IoT-Middleware):** IoT middleware engine in **ASP.NET Web API** with Mosquitto MQTT.
-* **[MATHura-Senior-Math-Game](https://github.com/DuarteJoaquim/MATHura-Senior-Math-Game):** Serious accessibility math game built in **Unity (C#)**.
-* **[LifeStats-Desktop-App](https://github.com/DuarteJoaquim/LifeStats-Desktop-App):** Routine and task tracking client built with **Electron**.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DuarteJoaquim&show_icons=true&theme=nord&count_private=true" alt="Duarte's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteJoaquim&layout=compact&theme=nord" alt="Top Languages" />
-</p>
+### 📁 Outros Projetos
+* **[DAD Memory Game Platform](https://github.com/DuarteJoaquim/DAD-Memory-Game-Platform):** Jogo multiplayer em tempo real com **Vue 3, Laravel 10 (REST API) e WebSockets**.
+* **[TAES Mobile Wallet App](https://github.com/DuarteJoaquim/TAES-Mobile-Wallet-App):** Carteira digital móvel com **React Native, Expo e Firebase**.
+* **[IA-CIFAR10-Classifier-GUI](https://github.com/DuarteJoaquim/IA-CIFAR10-Classifier-GUI):** Classificador de imagens CIFAR-10 com interface em Tkinter (TensorFlow/Keras).
+* **[IS-SOMIOD-IoT-Middleware](https://github.com/DuarteJoaquim/IS-SOMIOD-IoT-Middleware):** Middleware IoT desenvolvido em **ASP.NET Web API** e Mosquitto MQTT.
+* **[MATHura-Senior-Math-Game](https://github.com/DuarteJoaquim/MATHura-Senior-Math-Game):** Jogo sério de matemática para seniores desenvolvido em **Unity (C#)**.
+* **[LifeStats-Desktop-App](https://github.com/DuarteJoaquim/LifeStats-Desktop-App):** Gestor de finanças e hábitos desenvolvido em **Electron**.
 
 ---
 
-## 🤝 Connect with Me
+## 📊 Estatísticas do GitHub
+
+![Duarte's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuarteJoaquim&show_icons=true&theme=nord&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=DuarteJoaquim&layout=compact&theme=nord)
+
+---
+
+## 🤝 Contactos
 - **LinkedIn:** [linkedin.com/in/duartejoaquimsf](https://www.linkedin.com/in/duartejoaquimsf)
 - **Email:** [2212500@my.ipleiria.pt](mailto:2212500@my.ipleiria.pt)
