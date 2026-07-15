@@ -4,16 +4,16 @@ I am a **Software Developer** focused on building clean web and mobile applicati
 
 ---
 
-## ⚡ O que faço
-- 🌐 **Full-Stack Web Development:** Criação de sistemas web completos utilizando **Vue.js** no frontend e **Spring Boot** ou **Laravel** no backend.
-- 📱 **Mobile App Development:** Desenvolvimento de aplicações móveis multiplataforma com **React Native & Expo**, com integração de base de dados **Firebase**.
-- 🛠️ **Integrações & Scraping:** Desenvolvimento de scripts em Python para recolha automatizada de dados e utilização de Docker para conteinerização de ambientes de desenvolvimento.
+## ⚡ About Me
+- 🌐 **Full-Stack Web Development:** Building full-stack web applications using **Vue.js** on the frontend and **Spring Boot** or **Laravel** on the backend.
+- 📱 **Mobile App Development:** Developing cross-platform mobile apps with **React Native & Expo**, integrated with **Firebase** databases.
+- 🛠️ **Integrations & Scraping:** Writing Python scripts for data collection (web scraping) and using **Docker** for containerized local development.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
-### Linguagens de Programação
+### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -22,7 +22,7 @@ I am a **Software Developer** focused on building clean web and mobile applicati
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### Frameworks & Bibliotecas
+### Frameworks & Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6db33f?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -31,7 +31,7 @@ I am a **Software Developer** focused on building clean web and mobile applicati
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
-### Bases de Dados & DevOps
+### Databases & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -41,23 +41,23 @@ I am a **Software Developer** focused on building clean web and mobile applicati
 
 ---
 
-## 📂 Projetos
+## 📂 Projects
 
-### ⭐ Projetos em Destaque
-* **[DAE Academic Publications Platform](https://github.com/DuarteJoaquim/DAE-Academic-Publications-Platform):** Plataforma para gestão e revisão de publicações académicas. Backend em **Java (Jakarta EE)**, frontend em **Nuxt 3** e integração com IA local para resumos de artigos.
-* **[FARUP Logistics Platform](https://github.com/DuarteJoaquim/FARUP-Logistics-Platform):** Sistema logístico de e-commerce. Inclui um **crawler em Python** para extração de catálogo, um backend **Spring Boot** para gestão de encomendas e integração com a **Gemini API** para otimização de caixas de envio.
+### ⭐ Featured Projects
+* **[DAE Academic Publications Platform](https://github.com/DuarteJoaquim/DAE-Academic-Publications-Platform):** A repository and peer-review system for academic papers. Built with a **Java (Jakarta EE)** WildFly backend, a **Nuxt 3** frontend, and local LLM integration for article summaries.
+* **[FARUP Logistics Platform](https://github.com/DuarteJoaquim/FARUP-Logistics-Platform):** An e-commerce logistics platform. Features a **Python scraper** for catalog compilation, a **Spring Boot** backoffice for order management, and integrations with **Google Gemini API** for container box optimization.
 
-### 📁 Outros Projetos
-* **[DAD Memory Game Platform](https://github.com/DuarteJoaquim/DAD-Memory-Game-Platform):** Jogo multiplayer em tempo real com **Vue 3, Laravel 10 (REST API) e WebSockets**.
-* **[TAES Mobile Wallet App](https://github.com/DuarteJoaquim/TAES-Mobile-Wallet-App):** Carteira digital móvel com **React Native, Expo e Firebase**.
-* **[IA-CIFAR10-Classifier-GUI](https://github.com/DuarteJoaquim/IA-CIFAR10-Classifier-GUI):** Classificador de imagens CIFAR-10 com interface em Tkinter (TensorFlow/Keras).
-* **[IS-SOMIOD-IoT-Middleware](https://github.com/DuarteJoaquim/IS-SOMIOD-IoT-Middleware):** Middleware IoT desenvolvido em **ASP.NET Web API** e Mosquitto MQTT.
-* **[MATHura-Senior-Math-Game](https://github.com/DuarteJoaquim/MATHura-Senior-Math-Game):** Jogo sério de matemática para seniores desenvolvido em **Unity (C#)**.
-* **[LifeStats-Desktop-App](https://github.com/DuarteJoaquim/LifeStats-Desktop-App):** Gestor de finanças e hábitos desenvolvido em **Electron**.
+### 📁 Other Projects
+* **[DAD Memory Game Platform](https://github.com/DuarteJoaquim/DAD-Memory-Game-Platform):** Real-time multiplayer game using **Vue 3, Laravel 10 (REST API), and WebSockets**.
+* **[TAES Mobile Wallet App](https://github.com/DuarteJoaquim/TAES-Mobile-Wallet-App):** Mobile banking app built with **React Native, Expo, and Firebase**.
+* **[IA-CIFAR10-Classifier-GUI](https://github.com/DuarteJoaquim/IA-CIFAR10-Classifier-GUI):** Image classifier with Tkinter GUI (TensorFlow/Keras).
+* **[IS-SOMIOD-IoT-Middleware](https://github.com/DuarteJoaquim/IS-SOMIOD-IoT-Middleware):** IoT middleware engine in **ASP.NET Web API** with Mosquitto MQTT.
+* **[MATHura-Senior-Math-Game](https://github.com/DuarteJoaquim/MATHura-Senior-Math-Game):** Serious accessibility math game built in **Unity (C#)**.
+* **[LifeStats-Desktop-App](https://github.com/DuarteJoaquim/LifeStats-Desktop-App):** Routine and task tracking client built with **Electron**.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 ![Duarte's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuarteJoaquim&show_icons=true&theme=nord&count_private=true)
 
@@ -65,6 +65,6 @@ I am a **Software Developer** focused on building clean web and mobile applicati
 
 ---
 
-## 🤝 Contactos
+## 🤝 Connect with Me
 - **LinkedIn:** [linkedin.com/in/duartejoaquimsf](https://www.linkedin.com/in/duartejoaquimsf)
 - **Email:** [2212500@my.ipleiria.pt](mailto:2212500@my.ipleiria.pt)
