@@ -1,6 +1,6 @@
 # Duarte Ferreira 👋
 
-Recent Computer Science and Engineering graduate from **IPLeiria - ESTG** (Portugal), focused on full-stack web and mobile application development.
+Recent Computer Science and Engineering graduate from **IPLeiria - ESTG** (Portugal), focused on backend and full-stack web development.
 
 ---
 
