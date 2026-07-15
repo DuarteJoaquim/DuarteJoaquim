@@ -57,14 +57,6 @@ I am a **Software Developer** focused on building clean web and mobile applicati
 
 ---
 
-## 📊 GitHub Stats
-
-![Duarte's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuarteJoaquim&show_icons=true&theme=nord&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=DuarteJoaquim&layout=compact&theme=nord)
-
----
-
 ## 🤝 Connect with Me
 - **LinkedIn:** [linkedin.com/in/duartejoaquimsf](https://www.linkedin.com/in/duartejoaquimsf)
 - **Email:** [2212500@my.ipleiria.pt](mailto:2212500@my.ipleiria.pt)
