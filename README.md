@@ -7,7 +7,7 @@ I am a **Software Developer** focused on building clean web and mobile applicati
 ## ⚡ What I Do
 - 🌐 **Full-Stack Web Development:** Building full-stack web applications using **Vue.js** on the frontend and **Spring Boot** or **Laravel** on the backend.
 - 📱 **Mobile App Development:** Developing cross-platform mobile apps with **React Native & Expo**, integrated with **Firebase** databases.
-- 🛠️ **Integrations & Scraping:** Writing Python scripts for data collection (web scraping) and using **Docker** for containerized local development.
+- 🛠️ **Integrations & Containerization:** Familiar with Python for automated data collection (web scraping) and using **Docker** for containerized local setups.
 
 ---
 
